@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\THYAGO VIDOVIX\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\THYAGO VIDOVIX\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\bin\Debug\netcoreapp3.1\Bankfour.exe
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\bin\Debug\netcoreapp3.1\Bankfour.deps.json
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\bin\Debug\netcoreapp3.1\Bankfour.runtimeconfig.json
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\bin\Debug\netcoreapp3.1\Bankfour.runtimeconfig.dev.json
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\bin\Debug\netcoreapp3.1\Bankfour.dll
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\bin\Debug\netcoreapp3.1\Bankfour.pdb
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\obj\Debug\netcoreapp3.1\Bankfour.csprojAssemblyReference.cache
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\obj\Debug\netcoreapp3.1\Bankfour.AssemblyInfoInputs.cache
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\obj\Debug\netcoreapp3.1\Bankfour.AssemblyInfo.cs
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\obj\Debug\netcoreapp3.1\Bankfour.dll
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\obj\Debug\netcoreapp3.1\Bankfour.pdb
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\obj\Debug\netcoreapp3.1\Bankfour.genruntimeconfig.cache
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\obj\Debug\netcoreapp3.1\Bankfour.csproj.CopyComplete
+C:\Users\THYAGO VIDOVIX\BankfourBot\Bankfour\Bankfour\obj\Debug\netcoreapp3.1\Bankfour.csproj.CoreCompileInputs.cache
